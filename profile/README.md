@@ -1,8 +1,8 @@
-# reversetwist
+# ReverseTwist
 
 > 🚀 Reverse-Engineered Intelligence Meets Developer Creativity
 
-**reversetwist** is an AI-native, MDX-powered system for generating dynamic, multilingual, and interactive content. Designed for builders, writers, and innovators who want full control over how AI-powered docs, workflows, and presentations come to life.
+**ReverseTwist** is an AI-native, MDX-powered system for generating dynamic, multilingual, and interactive content. Designed for builders, writers, and innovators who want full control over how AI-powered docs, workflows, and presentations come to life.
 
 ## 🔧 Features
 
@@ -30,6 +30,6 @@ We believe the future of content is:
 - Interactive
 - Language-aware
 
-Join the twist → reverse it, remix it, and reinvent the way knowledge flows.
+Join the Twist → Reverse it, remix it, and reinvent the way knowledge flows.
 
 ---
